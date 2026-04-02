@@ -26,7 +26,7 @@
 <h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vscode,github,git" alt="Languages and Tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,typescript,vscode,github,git" alt="Languages and Tools"/>
     <img src="https://skillicons.dev/icons?i=javascript,java" alt="Frameworks and Databases"/>
 </div>
 
